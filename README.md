@@ -4,29 +4,6 @@ A machine learning project focused on identifying potentially fraudulent credit 
 
 **Author:** Ayush Srivastav
 
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Objectives](#objectives)
-- [Machine Learning Models](#machine-learning-models)
-- [Technology Stack](#technology-stack)
-- [System Architecture](#system-architecture)
-- [Project Structure](#project-structure)
-- [Workflow](#workflow)
-- [Installation and Setup](#installation-and-setup)
-- [Running the Project](#running-the-project)
-- [Model Evaluation](#model-evaluation)
-- [Key Learnings](#key-learnings)
-- [Future Improvements](#future-improvements)
-- [Limitations](#limitations)
-- [Author](#author)
-- [License](#license)
-
----
-
 ## Overview
 
 Credit card fraud is a significant challenge in the financial industry. Machine learning can help identify suspicious transaction patterns by learning from historical transaction data.
